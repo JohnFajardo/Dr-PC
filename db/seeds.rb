@@ -21,7 +21,7 @@ JobOrder.create(job_name: "RAM upgrade", technician_id: "3", client_id: "4", sta
 JobOrder.create(job_name: "PSU replacement", technician_id: "1", client_id: "8", status: "Complete")
 JobOrder.create(job_name: "Motherboard swap", technician_id: "1", client_id: "1", status: "In progress")
 JobOrder.create(job_name: "OS reinstall", technician_id: "1", client_id: "1", status: "In progress")
-JobOrder.create(job_name: "Virus removal", technician_id: "2", client_id: "15", status: "Complete")
+JobOrder.create(job_name: "Virus removal", technician_id: "2", client_id: "7", status: "Complete")
 JobOrder.create(job_name: "Hard drive replacement", technician_id: "5", client_id: "4", status: "In progress")
 JobOrder.create(job_name: "Printer installation", technician_id: "3", client_id: "4", status: "In progress")
 JobOrder.create(job_name: "Wifi configuration", technician_id: "6", client_id: "6", status: "Complete")
